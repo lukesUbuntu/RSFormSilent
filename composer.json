@@ -1,0 +1,12 @@
+{
+    "name": "lukesUbuntu/RSFormSilent",
+    "description": "",
+    "keywords": ["RSForm"],
+    "license": "MIT",
+    "require": {
+        "php": ">= 5.3.0",
+        "mailgun/mailgun-php": "~1.7.2",
+        "phpmailer/phpmailer" : "~5.2",
+    },
+    "minimum-stability": "stable"
+}
